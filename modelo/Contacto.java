@@ -1,3 +1,5 @@
+package modelo;
+
 public class Contacto {
     private String DNI;
     private String nombres;
